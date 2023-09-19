@@ -21,17 +21,25 @@ Follow these steps to use the communication program:
 
 # Usage
 
-1. clone repository
+1. Clone this repository on your local machine.
 ```
 git clone https://github.com/eetukoljonen/minitalk.git
 ```
-2. make <br>
+2. Compile the program.
+```
+make
+```
 
-3. Start the server <br>
+4. Start the server <br>
+```
    ./server <br>
+```
   = server outputs the "pid" <br>
-4. Start the client <br>
-   ./client "pid" "message" <br>
+
+5. Start the client <br>
+```
+   ./client "pid" "message"
+```
   = server outputs the message. <br>
 example.
 
