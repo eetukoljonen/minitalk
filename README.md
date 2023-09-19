@@ -24,5 +24,12 @@ Follow these steps to use the communication program:
 ```
 git clone https://github.com/eetukoljonen/minitalk.git
 ```
-Start the "server"
-./server
+1. Start the server <br>
+   ./server <br>
+  = server outputs the "pid" <br>
+2. Start the client <br>
+   ./client "pid" "message" <br>
+  = server outputs the message. <br>
+example.
+
+<img width="598" alt="Screen Shot 2023-09-19 at 1 15 45 PM" src="https://github.com/eetukoljonen/minitalk/assets/120648288/cfcfdd7f-4bc6-440e-8743-b7569bc81900">
