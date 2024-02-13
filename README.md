@@ -32,7 +32,7 @@ make
 
 4. Start the server <br>
 ```
-   ./server <br>
+   ./server
 ```
   = server outputs the "pid" <br>
 
